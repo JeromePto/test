@@ -21,3 +21,5 @@ void Losange::affichage() const
 {
     std::cout << "C'est un losange de longeur " << m_longeur << std::endl;
 }
+
+//hvuveu
